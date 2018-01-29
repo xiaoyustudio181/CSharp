@@ -1,0 +1,10 @@
+F:\Headquarters\C#.NET项目\CSharpLab_v171010.0933\DotNetBarLab\obj\Debug\DotNetBarLab.Form1.resources
+F:\Headquarters\C#.NET项目\CSharpLab_v171010.0933\DotNetBarLab\obj\Debug\DotNetBarLab.Properties.Resources.resources
+F:\Headquarters\C#.NET项目\CSharpLab_v171010.0933\DotNetBarLab\obj\Debug\DotNetBarLab.csproj.GenerateResource.Cache
+F:\Headquarters\C#.NET项目\CSharpLab_v171010.0933\DotNetBarLab\obj\Debug\DotNetBarLab.csprojResolveAssemblyReference.cache
+F:\Headquarters\C#.NET项目\CSharpLab_v171010.0933\DotNetBarLab\bin\Debug\DotNetBarLab.exe
+F:\Headquarters\C#.NET项目\CSharpLab_v171010.0933\DotNetBarLab\bin\Debug\DotNetBarLab.pdb
+F:\Headquarters\C#.NET项目\CSharpLab_v171010.0933\DotNetBarLab\bin\Debug\MyFrame.dll
+F:\Headquarters\C#.NET项目\CSharpLab_v171010.0933\DotNetBarLab\bin\Debug\MyFrame.pdb
+F:\Headquarters\C#.NET项目\CSharpLab_v171010.0933\DotNetBarLab\obj\Debug\DotNetBarLab.exe
+F:\Headquarters\C#.NET项目\CSharpLab_v171010.0933\DotNetBarLab\obj\Debug\DotNetBarLab.pdb

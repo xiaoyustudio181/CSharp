@@ -1,0 +1,110 @@
+﻿Object Report
+	Version='5.8.0.6'
+	Title='你的报表标题'
+	Object Font
+		Name='宋体'
+		Size=105000,0
+		Weight=400
+		Charset=134
+	End
+	Object Printer
+	End
+	Object DetailGrid
+		Object Recordset
+		End
+		Object ColumnContent
+			Height=0.635
+		End
+		Object ColumnTitle
+			Height=0.635
+			RepeatStyle=OnPage
+		End
+	End
+	Items Section
+		Item
+			Type=PageHeader
+			Height=1.32292
+			Items Control
+				Item
+					Type=MemoBox
+					Name='MemoBox1'
+					Anchor=[Top|Right]
+					Center=Horizontal
+					Left=5.34458
+					Top=0.211667
+					Width=5.31813
+					Height=0.47625
+					Object Font
+						Name='楷体'
+						Size=157500,0
+						Bold=T
+						Charset=134
+					End
+					Text='动态报表 代码生成'
+				End
+				Item
+					Type=Line
+					Name='Line1'
+					Anchor=[Left|Top|Right]
+					Top=1.00542
+					Width=16.0073
+					PenWidth=2
+				End
+			End
+		End
+		Item
+			Type=PageFooter
+			Height=1.32292
+			Items Control
+				Item
+					Type=MemoBox
+					Name='MemoBox3'
+					Left=0.211667
+					Top=0.396875
+					Width=6.19125
+					Height=0.608542
+					Object Font
+						Name='楷体'
+						Size=120000,0
+						Bold=T
+						Charset=134
+					End
+					Text='打印时间：[#SystemVar(CurrentDateTime):yyyy年MM月dd日#]'
+				End
+				Item
+					Type=MemoBox
+					Name='MemoBox2'
+					Anchor=[Top|Right]
+					Left=12.991
+					Top=0.396875
+					Width=2.98979
+					Height=0.608542
+					Object Font
+						Name='楷体'
+						Size=120000,0
+						Bold=T
+						Charset=134
+					End
+					Text='第[#SystemVar(PageNumber)#]页，共[#SystemVar(PageCount)#]页'
+				End
+			End
+		End
+		Item
+			Type=ReportHeader
+			Name='ReportHeader1'
+			Height=1.32292
+			Items Control
+				Item
+					Type=StaticBox
+					Name='StaticBox1'
+					Center=Both
+					Left=4.23333
+					Top=0.0264583
+					Width=7.54063
+					Height=1.24354
+					TextAlign=MiddleCenter
+				End
+			End
+		End
+	End
+End
