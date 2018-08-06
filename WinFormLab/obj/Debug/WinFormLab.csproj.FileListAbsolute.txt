@@ -1470,3 +1470,6 @@ F:\Headquarters\C#.NET项目\其他项目\CSharpLab_v171103.1000\WinFormLab\obj\
 F:\Headquarters\C#.NET项目\其他项目\CSharpLab_v171103.1000\WinFormLab\obj\Debug\WinFormLab.TestForm.resources
 F:\Headquarters\C#.NET项目\其他项目\CSharpLab_v171103.1000\WinFormLab\obj\Debug\WinFormLab.Timer.resources
 F:\Headquarters\C#.NET项目\其他项目\CSharpLab_v171103.1000\WinFormLab\obj\Debug\WinFormLab.csproj.GenerateResource.Cache
+G:\git_space\CSharp\WinFormLab\bin\Debug\WinFormLab.exe.config
+G:\git_space\CSharp\WinFormLab\obj\Debug\WinFormLab.exe
+G:\git_space\CSharp\WinFormLab\obj\Debug\WinFormLab.pdb
